@@ -5,8 +5,8 @@
 %global crate chainerror
 
 Name:           rust-%{crate}
-Version:        0.4.3
-Release:        3%{?dist}
+Version:        1.0.0
+Release:        1%{?dist}
 Summary:        Make chaining errors easy
 
 # Upstream license specification: MIT/Apache-2.0
